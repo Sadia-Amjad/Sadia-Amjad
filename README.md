@@ -1,5 +1,5 @@
 ## Hi 👋 I am Sadia Amjad
-                          #<b>Web Developer</b>
+                          #Web Developer
 
 - 🔭 I’m currently working on HTML,CSS,Bootstrap,JavaScript ...
 - 🌱 I’m currently learning Full Stack Web Development...
